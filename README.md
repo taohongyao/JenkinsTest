@@ -1,5 +1,5 @@
 # JenkinsTest
-Adding Git webhook to CI/CD
+Adding Git webhooks to CI/CD
 ### API Test:
 
 #### 1. Post
